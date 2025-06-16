@@ -1,6 +1,6 @@
 # receipt-printer
 Converts images to ESC/POS control commands for a TM-T90 receipt printer
-![scan_eih20jc_2025-01-06-15-34-20-1](https://github.com/user-attachments/assets/c63e7d4f-fa43-4968-a936-e3aae6bf6477)
+![ezgif-6-bad4725ee3](https://github.com/user-attachments/assets/a2f85d83-dbba-4eb1-831f-619d6b0163a3)
 
 To make an image to send:  
 - use 'https://www.simpleimageresizer.com/upload' to resize images and 'https://app.dithermark.com/' to dither images  
